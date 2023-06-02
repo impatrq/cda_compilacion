@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 #Working directory
+/main.c 
 #deletes the main.c in the root directory
