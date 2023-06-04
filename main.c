@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    print("Hola Mundo");
+    print("Estamos Probando Un Archivo .c");
     return 2;
 }
