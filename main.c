@@ -1,6 +1,6 @@
 #incluide <stdio.h>
 
 int main(void) {
-    printf("hola mundo");
+    printf("probando archivo");
     return 2;
 }
