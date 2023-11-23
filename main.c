@@ -2,5 +2,5 @@
 
 int main(void) {
     printf("estamos probando el programa");
-    return 2
+    return 2;
 }
