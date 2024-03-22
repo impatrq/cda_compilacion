@@ -1,6 +1,6 @@
 #include <stdio.h> 
 
 int main(void) {
-    printf("valen se rie");
+    printf("vhola maxi");
     return 2;
 }
