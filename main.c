@@ -2,7 +2,7 @@
 
 int main (voids){
     
-    printf ("hola mundo");
+    printf ("estamos probando un archivo c.");
     return 2;
     
 }
